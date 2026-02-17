@@ -1,9 +1,8 @@
 # AI_A1_23F0774_23F0805
-# GOOD PERFORMANCE TIME APP
 
-## 🧠 AI Pathfinder – Uninformed Search Visualization
+# AI Pathfinder – Uninformed Search Visualization
 
-GOOD PERFORMANCE TIME APP is an interactive AI Pathfinder developed for AI2002 – Artificial Intelligence (Spring 2026).
+GOOD PERFORMANCE TIME APP is an interactive AI Pathfinder developed.
 
 This project demonstrates how different Uninformed Search Algorithms explore a grid environment to find a path from a Start node (S) to a Target node (T).
 
@@ -16,7 +15,7 @@ It also supports dynamic obstacles that may appear during runtime. If the path b
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 - Implement 6 uninformed search algorithms
 - Animate search process step-by-step
@@ -26,7 +25,7 @@ It also supports dynamic obstacles that may appear during runtime. If the path b
 
 ---
 
-## 🔎 Algorithms Implemented
+##  Algorithms Implemented
 
 1. **Breadth-First Search (BFS)** – Finds shortest path in unweighted grid.
 2. **Depth-First Search (DFS)** – Explores deeply before backtracking.
@@ -37,19 +36,19 @@ It also supports dynamic obstacles that may appear during runtime. If the path b
 
 ---
 
-## ⚡ Features
+## Features
 
-✔ Interactive grid  
-✔ Step-by-step animation  
-✔ Adjustable speed  
-✔ Dynamic obstacle spawning  
-✔ Automatic path re-calculation  
-✔ Real-time statistics  
-✔ 8-directional movement  
+-  Interactive grid  
+- Step-by-step animation  
+- Adjustable speed  
+- Dynamic obstacle spawning  
+- Automatic path re-calculation  
+- Real-time statistics  
+- 8-directional movement  
 
 ---
 
-## 🎮 Controls
+## Controls
 
 S → Set Start  
 T → Set Target  
@@ -58,11 +57,11 @@ C → Clear
 R → Reset  
 1–6 → Select algorithm  
 Mouse Drag → Create walls  
-ESC → Exit  
+ESC  → Exit  
 
 ---
 
-## 💻 Installation
+## Installation
 
 pip install pygame
 
@@ -72,10 +71,10 @@ python main.py
 
 ---
 
-## 📚 Learning Outcomes
+## Outcomes
 
 - Completeness vs Optimality
 - Time and Space complexity trade-offs
 - Practical implementation of search algorithms
-- GUI-based algorithm visualization
+- GUI based algorithm visualization
 - Dynamic environment handling
